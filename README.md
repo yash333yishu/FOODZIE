@@ -1,2 +1,4 @@
 # FOODZIE
-Food_Ordering_System
+A Food Ordering system that allows users to order food from a certqain menu.
+
+
